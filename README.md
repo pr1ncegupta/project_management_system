@@ -21,7 +21,7 @@ Welcome to the Student Management System project! This system helps manage stude
 1. Clone this repository
 
 2. Import the database:
-- Navigate to the `databases.db` directory.
+- Navigate to the `db.md` directory.
 - Copy all and paste it into your xampp mysql
 
 3. Configure database connection:
