@@ -89,6 +89,13 @@ Contributions are welcome! Here's how you can contribute:
 Currently it supports only manual user addition
 For user management, manually add users directly to the MySQL database using a tool like phpMyAdmin in XAMPP.
 
+## Collaborators
+
+- [RahulRmCoder](https://github.com/RahulRmCoder)
+- [SakshiThakur410](https://github.com/SakshiThakur410)
+- [siddhi-rungta](https://github.com/siddhi-rungta)
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
