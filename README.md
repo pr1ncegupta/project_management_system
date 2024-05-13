@@ -94,6 +94,7 @@ For user management, manually add users directly to the MySQL database using a t
 - [RahulRmCoder](https://github.com/RahulRmCoder)
 - [SakshiThakur410](https://github.com/SakshiThakur410)
 - [siddhi-rungta](https://github.com/siddhi-rungta)
+- [RAKESH272005](https://github.com/RAKESH272005)
 
 
 ## License
